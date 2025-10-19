@@ -1,16 +1,14 @@
-# habit_tracker
+🧩 Deskripsi Umum
 
-A new Flutter project.
+Aplikasi ini merupakan proyek Flutter sederhana yang berfungsi untuk mencatat, menampilkan, menambah, memperbarui, dan menghapus kebiasaan (habit) pengguna.
+Dengan tampilan antarmuka yang bersih dan modern, aplikasi ini dirancang agar pengguna dapat memantau perkembangan kebiasaan positifnya setiap hari.
 
-## Getting Started
+Fitur utama aplikasi:
 
-This project is a starting point for a Flutter application.
+Menampilkan daftar habit aktif dan selesai.
 
-A few resources to get you started if this is your first Flutter project:
+Menambahkan habit baru dengan dialog input.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Menghapus habit dengan konfirmasi.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Menandai habit sebagai selesai.
