@@ -15,7 +15,7 @@ Deskripsi Singkat & Fitur Aplikasi
 Aplikasi **Habit Tracker** merupakan aplikasi berbasis **Flutter** dengan konsep **CRUD (Create, Read, Update, Delete)**.
 Fungsinya adalah untuk mencatat dan memonitor kegiatan harian pengguna agar konsisten membangun kebiasaan positif.
 
-### ✨ Fitur Utama:
+### Fitur Utama:
 
 1. **Halaman Utama (Read)**
 
@@ -45,19 +45,19 @@ Fungsinya adalah untuk mencatat dan memonitor kegiatan harian pengguna agar kons
 
 ---
 
-## 🧩 Pembagian Tugas
+## Pembagian Tugas
  Muhamad Kaisar Hudayef - All In
 ---
 
-## 📸 Screenshot Tampilan
+## Screenshot Tampilan
 <img width="614" height="880" alt="image" src="https://github.com/user-attachments/assets/7b688f26-217c-49aa-be11-783ffdac89ff" />
 
-### 1️⃣ Halaman Daftar Habit
+### 1️Halaman Daftar Habit
 
 <img width="603" height="313" alt="image" src="https://github.com/user-attachments/assets/c96dda13-ef43-4262-8fa7-5db207027b85" />
 ---
 
-### 2️⃣ Form Tambah Habit
+### 2️Form Tambah Habit
 
 <img width="608" height="799" alt="image" src="https://github.com/user-attachments/assets/ffd92e61-43f0-4ed5-9b29-8470cf1a6cdc" />
 
@@ -98,7 +98,7 @@ List ini menjadi dasar sistem CRUD dalam aplikasi dan digunakan langsung oleh `L
 
 ---
 
-## 🧠 Teknologi yang Digunakan
+## Teknologi yang Digunakan
 
 * **Bahasa:** Dart
 * **Framework:** Flutter
