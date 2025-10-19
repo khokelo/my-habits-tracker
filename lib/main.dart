@@ -40,7 +40,6 @@ class _HomePageState extends State<HomePage> {
   /// List data habit (dummy awal)
   List<Map<String, dynamic>> habits = [
     {"nama": "Minum Air", "selesai": true},
-    {"nama": "Olahraga 30 Menit", "selesai": false},
     {"nama": "Baca Buku", "selesai": false},
     {"nama": "Meditasi", "selesai": true},
   ];
